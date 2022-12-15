@@ -1,0 +1,22 @@
+.LuotuDiv{
+    border: 1px solid black;
+    margin: 5px;
+    width: 500px;
+}
+
+
+.important{
+    border: solid red 2px;
+    margin: 5px;
+    width: 500px;
+}
+
+h3{
+    margin:0;
+}
+.name{
+    margin: 200px;
+}
+h4{
+    margin:0;
+}
